@@ -1,0 +1,132 @@
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: rgb(102,176,181);
+        background: linear-gradient(90deg, rgba(102,176,181,1) 0%, rgba(170,109,230,1) 35%, rgba(204,74,182,1) 100%);
+    }
+    img{
+        width: 800px;
+    color: rgb(119, 48, 170);
+    
+    }
+    h1{
+        color: rgb(36, 5, 58);
+    }
+    .lena_text{
+        color: blueviolet;
+        font-weight: 900;
+        font-size: 28px;
+        font-family: "Protest Riot", sans-serif;
+        padding: 10px 10px 10px 10px;
+        
+        
+    }
+    .l1{
+        width: 700px;
+        margin-left: 100px; 
+        margin: 0 auto;
+        display: block;
+    }
+    .lena{
+        text-align: center;
+        
+    }
+    .btn{
+        color: rgb(218, 12, 12);
+        text-decoration: none;
+        border: 100 solid rgba(102, 51, 153, 0.281);
+        padding: 10px;
+        background-color: rgba(0, 0, 0, 0.733);
+        border-radius: 20px;
+        transition: 1;
+        text-align: center;
+        margin: 0 auto;
+        display: block;
+        margin-bottom: 50px;
+        width: 718px;
+        
+    }
+    .btn:hover{
+        background-color: rgba(148, 8, 148, 0.514);
+    }
+    section{
+        width: 100%;
+    }
+    .milo{
+        padding: 10px;
+        margin: 0 auto;
+        display: block;
+    }
+    .rb{
+        text-align: center;
+    }
+    .cop{
+    text-align: center;
+    padding-top: 30px;
+    }
+    .gf{
+        font-size: 20px;
+        font-family: "Protest Revolution", sans-serif;
+        padding: 10px 10px 10px 10px;
+    }
+    nav{
+        width: 100%;
+        background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(200,83,209,1) 35%, rgba(0, 255, 13, 0.692) 100%);
+    position: fixed;
+    }
+    nav ul{
+        display: flex;
+        list-style-type: none;
+        width: 100%;
+        height: 100%;
+        align-items: center;
+        justify-content: space-around;
+    }
+    nav a{
+        color: blue;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+    nav a:hover{
+        color: aquamarine;
+        text-decoration: underline;
+    }
+    .btl{
+        font-family: "Protest Riot", sans-serif;
+        padding-bottom: 50px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .dig{
+        font-family: "Protest Revolution", sans-serif;
+        padding: 20px;
+        font-size: 28px;
+    }
+    .dark{
+        font-size: 19px;
+        font-family: "Protest Riot", sans-serif;
+        padding: 10px 10px 10px 10px;
+    }
+    .qwe{
+        font-family: "Protest Riot", sans-serif;
+        font-size: 19px;
+        padding: 10px 10px 10px 10px;
+    }
+    .rty{
+        font-family: "Protest Riot", sans-serif;
+        font-size: 23px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+        color:aquamarine
+        
+    }
+    .l2{
+        margin: 0 auto;
+        display: block;
+    }
